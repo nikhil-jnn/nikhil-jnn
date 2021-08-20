@@ -39,7 +39,7 @@
 ![languages](https://img.shields.io/static/v1?label=&message=Hindi&color=555&style=plastic)
 
 #### How about a quote before you go?
-<b>“Data will talk to you, if you’re willing to listen”
+<b> • “Data will talk to you, if you’re willing to listen”
 
 
 <p align="middle">
