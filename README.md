@@ -1,7 +1,9 @@
 ### Hi there 👋
 
-<!--
-**nikhil-jnn/nikhil-jnn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![download](https://user-images.githubusercontent.com/83585688/130226056-a93b0557-4611-4ba3-98af-864313f89039.gif)
+
+
+nikhil-jnn/nikhil-jnn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -13,4 +15,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
+
