@@ -12,18 +12,18 @@
 ## Languages and Tools:
 
 ![languages](https://img.shields.io/static/v1?label=&message=Python&color=555&style=plastic)
-![languages](https://img.shields.io/static/v1?label=&message=Microsoft_Excel&color=555&style=plastic)
+![languages](https://img.shields.io/static/v1?label=&message=Microsoft%20Excel&color=555&style=plastic)
 ![languages](https://img.shields.io/static/v1?label=&message=My%20SQL&color=555&style=plastic)
 ![languages](https://img.shields.io/static/v1?label=&message=Pandas&color=555&style=plastic)
 ![languages](https://img.shields.io/static/v1?label=&message=Seaborn&color=555&style=plastic)
-![languages](https://img.shields.io/static/v1?label=&message=Beautiful_Soup&color=555&style=plastic)
+![languages](https://img.shields.io/static/v1?label=&message=Beautiful%20Soup&color=555&style=plastic)
 ![languages](https://img.shields.io/static/v1?label=&message=Jupyter&color=555&style=plastic)
 ![languages](https://img.shields.io/static/v1?label=&message=Tableau&color=555&style=plastic)
-![languages](https://img.shields.io/static/v1?label=&message=Power_BI&color=555&style=plastic)
+![languages](https://img.shields.io/static/v1?label=&message=Power%20BI&color=555&style=plastic)
 ![languages](https://img.shields.io/static/v1?label=&message=Numpy&color=555&style=plastic)
 ![languages](https://img.shields.io/static/v1?label=&message=Matplotlib&color=555&style=plastic)
-![languages](https://img.shields.io/static/v1?label=&message=MS_Word&color=555&style=plastic)
-![languages](https://img.shields.io/static/v1?label=&message=MS_Power_Point&color=555&style=plastic)
+![languages](https://img.shields.io/static/v1?label=&message=MS%20Word&color=555&style=plastic)
+![languages](https://img.shields.io/static/v1?label=&message=MS%20Power%20Point&color=555&style=plastic)
 
 
 
