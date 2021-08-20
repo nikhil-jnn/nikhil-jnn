@@ -19,11 +19,11 @@
 ![languages](https://img.shields.io/static/v1?label=&message=Beautiful Soup&color=555&style=plastic)
 ![languages](https://img.shields.io/static/v1?label=&message=Jupyter&color=555&style=plastic)
 ![languages](https://img.shields.io/static/v1?label=&message=Tableau&color=555&style=plastic)
-![languages](https://img.shields.io/static/v1?label=&message=Power BI&color=555&style=plastic)
+![languages](https://img.shields.io/static/v1?label=&message=Power_BI&color=555&style=plastic)
 ![languages](https://img.shields.io/static/v1?label=&message=Numpy&color=555&style=plastic)
 ![languages](https://img.shields.io/static/v1?label=&message=Matplotlib&color=555&style=plastic)
-![languages](https://img.shields.io/static/v1?label=&message=MS Word&color=555&style=plastic)
-![languages](https://img.shields.io/static/v1?label=&message=MS Power Point&color=555&style=plastic)
+![languages](https://img.shields.io/static/v1?label=&message=MS_Word&color=555&style=plastic)
+![languages](https://img.shields.io/static/v1?label=&message=MS_Power Point&color=555&style=plastic)
 
 
 
