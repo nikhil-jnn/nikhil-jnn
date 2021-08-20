@@ -49,10 +49,10 @@
 </p>
 <br>
 
-
+<p>
 ## How about a quote before you go?
 <b> “Data will talk to you, if you’re willing to listen”
-<br>
+</p>
 
 <p align="middle">
 <img src="https://komarev.com/ghpvc/?username=nikhil-jnn" alt="Visits"/>
