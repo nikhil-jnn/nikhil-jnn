@@ -5,6 +5,9 @@
 <br>
 <br>
 
+<p align="Center">
+<b>“Data will talk to you, if you’re willing to listen”
+</p>
 
 #### Hi, I am Nikhil Jain from India.
 - I’m currently pursuing my Masters from Welingkar Institute of Management Bangalore with the specialization in Research and Business Analytics.
@@ -48,8 +51,6 @@
 </p>
 <br>
 
-
-# “Data will talk to you, if you’re willing to listen”
 
 
 <p align="middle">
