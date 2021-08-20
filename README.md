@@ -9,7 +9,7 @@
 #### Hi, I am Nikhil Jain from India. I’m currently pursuing my Masters from Welingkar Institute of Management Bangalore with the specialization in Research and Business Analytics. Currently learning Machine Learning, Deep Learning, Data Science and Data Analysis technologies along with management skills.
 #### Looking to collaborate on Machine learning and Data Science projects. Always looking for challenging work opportunities ahead. I try to go beyond and push the bounds. Besides DA I play chess and Video Games.
 
-## Languages and Tools:
+#### Languages and Tools
 
 ![languages](https://img.shields.io/static/v1?label=&message=Python&color=000&style=plastic)
 ![languages](https://img.shields.io/static/v1?label=&message=Microsoft%20Excel&color=000&style=plastic)
@@ -25,6 +25,14 @@
 ![languages](https://img.shields.io/static/v1?label=&message=MS%20Word&color=000&style=plastic)
 ![languages](https://img.shields.io/static/v1?label=&message=MS%20Power%20Point&color=000&style=plastic)
 
+#### Industry Knowledge
+
+![languages](https://img.shields.io/static/v1?label=&message=Data%20Analysis&color=555&style=plastic)
+![languages](https://img.shields.io/static/v1?label=&message=Data%20Analysis&color=555&style=plastic)
+![languages](https://img.shields.io/static/v1?label=&message=Data%20Analysis&color=555&style=plastic)
+![languages](https://img.shields.io/static/v1?label=&message=Data%20Analysis&color=555&style=plastic)
+![languages](https://img.shields.io/static/v1?label=&message=Data%20Analysis&color=555&style=plastic)
+![languages](https://img.shields.io/static/v1?label=&message=Data%20Analysis&color=555&style=plastic)
 
 Here are some ideas to get you started:
 
