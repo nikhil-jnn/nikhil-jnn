@@ -12,7 +12,7 @@ Hi, I am **Nikhil Jain** from India. I’m currently pursuing my Masters from We
 <br>
 
 <code><img height="50" src="https://user-images.githubusercontent.com/83585688/130241797-beb8d581-6f5b-4f5a-9835-4dfc2307fd40.png"></code>
-<code><img height="20" src="https://user-images.githubusercontent.com/83585688/130241847-a01e8635-9ed1-4a20-91c5-d9d097a81340.png"></code>
+<code><img height="50" src="https://user-images.githubusercontent.com/83585688/130241968-5d59d291-3467-4f55-af14-2b642a0c409c.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 
 
