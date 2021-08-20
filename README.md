@@ -35,8 +35,8 @@
 
 #### Languages
 
-![languages](https://img.shields.io/static/v1?label=&message=English&color=000&style=plastic)
-![languages](https://img.shields.io/static/v1?label=&message=Hindi&color=000&style=plastic)
+![languages](https://img.shields.io/static/v1?label=&message=English&color=555&style=plastic)
+![languages](https://img.shields.io/static/v1?label=&message=Hindi&color=555&style=plastic)
 
 
 
