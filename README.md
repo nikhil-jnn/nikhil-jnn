@@ -11,7 +11,7 @@
 
 #### Languages and Tools
 
-![languages](https://img.shields.io/static/v1?label=&message=Python&color=ffff00&style=plastic)
+![languages](https://img.shields.io/static/v1?label=&message=Python&color=000&style=plastic)
 ![languages](https://img.shields.io/static/v1?label=&message=Microsoft%20Excel&color=000&style=plastic)
 ![languages](https://img.shields.io/static/v1?label=&message=My%20SQL&color=000&style=plastic)
 ![languages](https://img.shields.io/static/v1?label=&message=Pandas&color=000&style=plastic)
@@ -27,9 +27,9 @@
 
 #### Industry Knowledge
 
-![languages](https://img.shields.io/static/v1?label=&message=Data%20Analysis&color=555&style=plastic)
-![languages](https://img.shields.io/static/v1?label=&message=Data%20Analysis&color=555&style=plastic)
-![languages](https://img.shields.io/static/v1?label=&message=Data%20Analysis&color=555&style=plastic)
+![languages](https://img.shields.io/static/v1?label=&message=Data%20Analysis&color=	ffff00&style=plastic)
+![languages](https://img.shields.io/static/v1?label=&message=Data%20Analysis&color=	ffff00&style=plastic)
+![languages](https://img.shields.io/static/v1?label=&message=Data%20Analysis&color=	ffff00&style=plastic)
 ![languages](https://img.shields.io/static/v1?label=&message=Data%20Analysis&color=555&style=plastic)
 ![languages](https://img.shields.io/static/v1?label=&message=Data%20Analysis&color=555&style=plastic)
 ![languages](https://img.shields.io/static/v1?label=&message=Data%20Analysis&color=555&style=plastic)
