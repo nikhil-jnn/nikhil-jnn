@@ -49,8 +49,11 @@
 </p>
 <br>
 
-<p align = "center">
+
+
 ## How about a quote before you go?
+
+<p align = "center">
 <b> “Data will talk to you, if you’re willing to listen”
 </p>
 
