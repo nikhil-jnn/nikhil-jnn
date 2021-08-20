@@ -33,6 +33,14 @@
 ![languages](https://img.shields.io/static/v1?label=&message=Data%20Visualization&color=555&style=plastic)
 ![languages](https://img.shields.io/static/v1?label=&message=Data%20Science&color=555&style=plastic)
 
+#### Languages and Tools
+
+![languages](https://img.shields.io/static/v1?label=&message=English&color=000&style=plastic)
+![languages](https://img.shields.io/static/v1?label=&message=Hindi&color=000&style=plastic)
+
+
+
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
