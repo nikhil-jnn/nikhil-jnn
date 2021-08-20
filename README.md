@@ -16,7 +16,7 @@
    - Pandas
 
 
-<a href="https://placeholder.com"><img src="https://via.placeholder.com/140x100/000000/FFFFFF/?text=PYTHON"></a>
+<a href="https://placeholder.com"><img src="https://via.placeholder.com/120x80/000000/FFFFFF/?text=PYTHON"></a>
 
 https://via.placeholder.com/150/0000FF/808080 ?Text=Digital.com
 
