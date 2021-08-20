@@ -8,9 +8,9 @@ Hi, I am **Nikhil Jain** from India. I’m currently pursuing my Masters from We
 
 
 
-**#Languages and Tools:**
+#Languages and Tools:
 <br>
-**###PYTHON**
+###PYTHON
 
 Here are some ideas to get you started:
 
