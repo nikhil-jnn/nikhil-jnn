@@ -11,24 +11,8 @@
 
 ## Languages and Tools:
 
-• PYTHON
-   - Matplotlib
-   - Pandas
+![languages](https://img.shields.io/static/v1?label=&message=Python&color=555&style=flat-square)
 
-
-<a href="https://placeholder.com"><img src="https://via.placeholder.com/120x80/000000/FFFFFF/?text=PYTHON"></a>
-<a href="https://placeholder.com"><img src="https://via.placeholder.com/120x80/000000/FFFFFF/?text=POWER BI"></a>
-<a href="https://placeholder.com"><img src="https://via.placeholder.com/120x80/000000/FFFFFF/?text=SQL"></a>
-<a href="https://placeholder.com"><img src="https://via.placeholder.com/120x80/000000/FFFFFF/?text=TABLEAU"></a>
-<a href="https://placeholder.com"><img src="https://via.placeholder.com/120x80/000000/FFFFFF/?text=PYTHON"></a>
-
-![languages](https://img.shields.io/static/v1?label=&message=Python&color=555&style=flat-square&?logoWidth=80)
-![languages](https://img.shields.io/static/v1?label=&message=Python&color=555&style=flat-square&?logoWidth=80)
-![languages](https://img.shields.io/static/v1?label=&message=Python&color=555&style=flat-square&?logoWidth=80)
-![languages](https://img.shields.io/static/v1?label=&message=Python&color=555&style=flat-square&?logoWidth=80)
-
-
-### • SQL
 
 Here are some ideas to get you started:
 
