@@ -3,12 +3,7 @@
 
 
 
-<p align="middle">
-<a href="https://www.linkedin.com/in/nikhiljain148/" target="_blank"><img height="30" src="https://raw.githubusercontent.com/AbhishekMaira10/AbhishekMaira10/master/linkedin.png?raw=true"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.instagram.com/nikhil.jnn/" target="_blank"><img height="30" src="https://image.flaticon.com/icons/svg/725/725278.svg"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://twitter.com/nikhiljain148" target="_blank"><img height="30" src="https://raw.githubusercontent.com/AbhishekMaira10/AbhishekMaira10/master/Resources/png/twitter.png?raw=true"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-</p>
-<br>
+
 
 Hi, I am Nikhil Jain from India. I’m currently pursuing my Masters from Welingkar Institute of Management Bangalore with the specialization in Research and Business Analytics. Currently learning Machine Learning, Deep Learning, Data Science and Data Analysis technologies along with management skills. Looking to collaborate on Machine learning and Data Science projects. Always looking for challenging work opportunities ahead. I try to go beyond and push the bounds. Besides DA I play chess and Video Games.
 
@@ -27,4 +22,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+
+<p align="middle">
+<a href="https://www.linkedin.com/in/nikhiljain148/" target="_blank"><img height="30" src="https://raw.githubusercontent.com/AbhishekMaira10/AbhishekMaira10/master/linkedin.png?raw=true"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.instagram.com/nikhil.jnn/" target="_blank"><img height="30" src="https://image.flaticon.com/icons/svg/725/725278.svg"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://twitter.com/nikhiljain148" target="_blank"><img height="30" src="https://raw.githubusercontent.com/AbhishekMaira10/AbhishekMaira10/master/Resources/png/twitter.png?raw=true"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</p>
+<br>
 
