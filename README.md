@@ -22,7 +22,14 @@
 <a href="https://placeholder.com"><img src="https://via.placeholder.com/120x80/000000/FFFFFF/?text=TABLEAU"></a>
 <a href="https://placeholder.com"><img src="https://via.placeholder.com/120x80/000000/FFFFFF/?text=PYTHON"></a>
 
-https://via.placeholder.com/150/0000FF/808080 ?Text=Digital.com
+# My Markdown Page
+
+<p class="callout info">A success message</p>
+<p class="callout success">A success message</p>
+<p class="callout warning">A success message</p>
+<p class="callout danger">A success message</p>
+
+Normal markdown text
 
 ### • SQL
 
