@@ -17,6 +17,10 @@
 
 
 <a href="https://placeholder.com"><img src="https://via.placeholder.com/120x80/000000/FFFFFF/?text=PYTHON"></a>
+<a href="https://placeholder.com"><img src="https://via.placeholder.com/120x80/000000/FFFFFF/?text=POWER BI"></a>
+<a href="https://placeholder.com"><img src="https://via.placeholder.com/120x80/000000/FFFFFF/?text=SQL"></a>
+<a href="https://placeholder.com"><img src="https://via.placeholder.com/120x80/000000/FFFFFF/?text=TABLEAU"></a>
+<a href="https://placeholder.com"><img src="https://via.placeholder.com/120x80/000000/FFFFFF/?text=PYTHON"></a>
 
 https://via.placeholder.com/150/0000FF/808080 ?Text=Digital.com
 
