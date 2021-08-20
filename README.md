@@ -24,7 +24,7 @@
 ![languages](https://img.shields.io/static/v1?label=&message=Matplotlib&color=555&style=plastic)
 ![languages](https://img.shields.io/static/v1?label=&message=MS%20Word&color=555&style=plastic)
 ![languages](https://img.shields.io/static/v1?label=&message=MS%20Power%20Point&color=555&style=plastic)
-![PyTorch](https://img.shields.io/badge/-PyTorch-000
+![PyTorch](https://img.shields.io/badge/-PyTorch-000)
 
 
 Here are some ideas to get you started:
