@@ -27,12 +27,11 @@
 
 #### Industry Knowledge
 
-![languages](https://img.shields.io/static/v1?label=&message=Data%20Analysis&color=ffff00&style=plastic)
-![languages](https://img.shields.io/static/v1?label=&message=Data%20Analysis&color=ffff00&style=plastic)
-![languages](https://img.shields.io/static/v1?label=&message=Data%20Analysis&color=ffff00&style=plastic)
 ![languages](https://img.shields.io/static/v1?label=&message=Data%20Analysis&color=555&style=plastic)
-![languages](https://img.shields.io/static/v1?label=&message=Data%20Analysis&color=555&style=plastic)
-![languages](https://img.shields.io/static/v1?label=&message=Data%20Analysis&color=555&style=plastic)
+![languages](https://img.shields.io/static/v1?label=&message=Statistical%20Data%20Analysis&color=555&style=plastic)
+![languages](https://img.shields.io/static/v1?label=&message=Business%20Analytics&color=555&style=plastic)
+![languages](https://img.shields.io/static/v1?label=&message=Data%20Visualization&color=555&style=plastic)
+![languages](https://img.shields.io/static/v1?label=&message=Data%20Science&color=555&style=plastic)
 
 Here are some ideas to get you started:
 
