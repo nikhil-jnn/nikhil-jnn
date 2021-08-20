@@ -13,7 +13,7 @@
 
 ![languages](https://img.shields.io/static/v1?label=&message=Python&color=555&style=plastic)
 ![languages](https://img.shields.io/static/v1?label=&message=Microsoft_Excel&color=555&style=plastic)
-![languages](https://img.shields.io/static/v1?label=&message=My_SQL&color=555&style=plastic)
+![languages](https://img.shields.io/static/v1?label=&message=My%20SQL&color=555&style=plastic)
 ![languages](https://img.shields.io/static/v1?label=&message=Pandas&color=555&style=plastic)
 ![languages](https://img.shields.io/static/v1?label=&message=Seaborn&color=555&style=plastic)
 ![languages](https://img.shields.io/static/v1?label=&message=Beautiful_Soup&color=555&style=plastic)
