@@ -1,3 +1,4 @@
+![Neon Green and White Professional LinkedIn Banner (2)](https://user-images.githubusercontent.com/83585688/130233313-fe187199-556d-437b-8450-5e282a0801b8.gif)
 
 
 
@@ -8,10 +9,8 @@
 <a href="https://www.instagram.com/nikhil.jnn/" target="_blank"><img height="30" src="https://image.flaticon.com/icons/svg/725/725278.svg"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://twitter.com/nikhiljain148" target="_blank"><img height="30" src="https://raw.githubusercontent.com/AbhishekMaira10/AbhishekMaira10/master/Resources/png/twitter.png?raw=true"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
-
 <br>
 
-![Neon Green and White Professional LinkedIn Banner](https://user-images.githubusercontent.com/83585688/130229843-73bb1005-22ee-4c0e-8971-68898d931545.gif)
 
 nikhil-jnn/nikhil-jnn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
