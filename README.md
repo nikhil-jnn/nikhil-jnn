@@ -1,6 +1,9 @@
 <p align="Center">
 <b>“Data will talk to you, if you’re willing to listen”
 </p>
+  
+<br>
+<br>
 
 ![Neon Green and White Professional LinkedIn Banner (2)](https://user-images.githubusercontent.com/83585688/130233313-fe187199-556d-437b-8450-5e282a0801b8.gif)
 
