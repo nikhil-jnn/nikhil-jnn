@@ -6,7 +6,8 @@
 <br>
 
 
-#### Hi, I am Nikhil Jain from India. I’m currently pursuing my Masters from Welingkar Institute of Management Bangalore with the specialization in Research and Business Analytics. Currently learning Machine Learning, Deep Learning, Data Science and Data Analysis technologies along with management skills. Looking to collaborate on Machine learning and Data Science projects. Always looking for challenging work opportunities ahead. I try to go beyond and push the bounds. Besides DA I play chess and Video Games.
+#### Hi, I am Nikhil Jain from India. I’m currently pursuing my Masters from Welingkar Institute of Management Bangalore with the specialization in Research and Business Analytics. Currently learning Machine Learning, Deep Learning, Data Science and Data Analysis technologies along with management skills.
+#### Looking to collaborate on Machine learning and Data Science projects. Always looking for challenging work opportunities ahead. I try to go beyond and push the bounds. Besides DA I play chess and Video Games.
 
 
 # Languages and Tools:
