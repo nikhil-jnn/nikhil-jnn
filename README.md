@@ -11,21 +11,19 @@
 
 ## Languages and Tools:
 
-![languages](https://img.shields.io/static/v1?label=&message=Python&color=555&style=for-the-badge)
-![languages](https://img.shields.io/static/v1?label=&message=Python&color=555&style=social&?logoWidth=80)
 ![languages](https://img.shields.io/static/v1?label=&message=Python&color=555&style=plastic)
-![languages](https://img.shields.io/static/v1?label=&message=Python&color=555&style=flat-square)
-![languages](https://img.shields.io/static/v1?label=&message=Python&color=555&style=flat-square)
-![languages](https://img.shields.io/static/v1?label=&message=Python&color=555&style=flat-square)
-![languages](https://img.shields.io/static/v1?label=&message=Python&color=555&style=flat-square)
-![languages](https://img.shields.io/static/v1?label=&message=Python&color=555&style=flat-square)
-![languages](https://img.shields.io/static/v1?label=&message=Python&color=555&style=flat-square)
-![languages](https://img.shields.io/static/v1?label=&message=Python&color=555&style=flat-square)
-![languages](https://img.shields.io/static/v1?label=&message=Python&color=555&style=flat-square)
-![languages](https://img.shields.io/static/v1?label=&message=Python&color=555&style=flat-square)
-![languages](https://img.shields.io/static/v1?label=&message=Python&color=555&style=flat-square)
-![languages](https://img.shields.io/static/v1?label=&message=Python&color=555&style=flat-square)
-![languages](https://img.shields.io/static/v1?label=&message=Python&color=555&style=flat-square)
+![languages](https://img.shields.io/static/v1?label=&message=Python&color=555&style=plastic)
+![languages](https://img.shields.io/static/v1?label=&message=Python&color=555&style=plastic)
+![languages](https://img.shields.io/static/v1?label=&message=Python&color=555&style=plastic)
+![languages](https://img.shields.io/static/v1?label=&message=Python&color=555&style=plastic)
+![languages](https://img.shields.io/static/v1?label=&message=Python&color=555&style=plastic)
+![languages](https://img.shields.io/static/v1?label=&message=Python&color=555&style=plastic)
+![languages](https://img.shields.io/static/v1?label=&message=Python&color=555&style=plastic)
+![languages](https://img.shields.io/static/v1?label=&message=Python&color=555&style=plastic)
+![languages](https://img.shields.io/static/v1?label=&message=Python&color=555&style=plastic)
+![languages](https://img.shields.io/static/v1?label=&message=Python&color=555&style=plastic)
+![languages](https://img.shields.io/static/v1?label=&message=Python&color=555&style=plastic)
+![languages](https://img.shields.io/static/v1?label=&message=Python&color=555&style=plastic)
 
 
 
