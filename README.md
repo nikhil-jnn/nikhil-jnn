@@ -12,6 +12,21 @@
 ## Languages and Tools:
 
 ![languages](https://img.shields.io/static/v1?label=&message=Python&color=555&style=flat-square)
+![languages](https://img.shields.io/static/v1?label=&message=Python&color=555&style=flat-square)
+![languages](https://img.shields.io/static/v1?label=&message=Python&color=555&style=flat-square)
+![languages](https://img.shields.io/static/v1?label=&message=Python&color=555&style=flat-square)
+![languages](https://img.shields.io/static/v1?label=&message=Python&color=555&style=flat-square)
+![languages](https://img.shields.io/static/v1?label=&message=Python&color=555&style=flat-square)
+![languages](https://img.shields.io/static/v1?label=&message=Python&color=555&style=flat-square)
+![languages](https://img.shields.io/static/v1?label=&message=Python&color=555&style=flat-square)
+![languages](https://img.shields.io/static/v1?label=&message=Python&color=555&style=flat-square)
+![languages](https://img.shields.io/static/v1?label=&message=Python&color=555&style=flat-square)
+![languages](https://img.shields.io/static/v1?label=&message=Python&color=555&style=flat-square)
+![languages](https://img.shields.io/static/v1?label=&message=Python&color=555&style=flat-square)
+![languages](https://img.shields.io/static/v1?label=&message=Python&color=555&style=flat-square)
+![languages](https://img.shields.io/static/v1?label=&message=Python&color=555&style=flat-square)
+![languages](https://img.shields.io/static/v1?label=&message=Python&color=555&style=flat-square)
+
 
 
 Here are some ideas to get you started:
