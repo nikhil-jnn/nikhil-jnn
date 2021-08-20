@@ -27,9 +27,9 @@
 
 #### Industry Knowledge
 
-![languages](https://img.shields.io/static/v1?label=&message=Data%20Analysis&color=	ffff00&style=plastic)
-![languages](https://img.shields.io/static/v1?label=&message=Data%20Analysis&color=	ffff00&style=plastic)
-![languages](https://img.shields.io/static/v1?label=&message=Data%20Analysis&color=	ffff00&style=plastic)
+![languages](https://img.shields.io/static/v1?label=&message=Data%20Analysis&color=ffff00&style=plastic)
+![languages](https://img.shields.io/static/v1?label=&message=Data%20Analysis&color=ffff00&style=plastic)
+![languages](https://img.shields.io/static/v1?label=&message=Data%20Analysis&color=ffff00&style=plastic)
 ![languages](https://img.shields.io/static/v1?label=&message=Data%20Analysis&color=555&style=plastic)
 ![languages](https://img.shields.io/static/v1?label=&message=Data%20Analysis&color=555&style=plastic)
 ![languages](https://img.shields.io/static/v1?label=&message=Data%20Analysis&color=555&style=plastic)
