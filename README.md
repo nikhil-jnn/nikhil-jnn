@@ -1,10 +1,8 @@
 
-![Neon Green and White Professional LinkedIn Banner (1)](https://user-images.githubusercontent.com/83585688/130233069-2afa5e5f-2439-49f0-8ece-92d5b98c0437.gif)
 
 
 
 
-                                                  <h1> Hey, nice to see you.</h1>
 <p align="left">
 <a href="https://www.linkedin.com/in/nikhiljain148/" target="_blank"><img height="30" src="https://raw.githubusercontent.com/AbhishekMaira10/AbhishekMaira10/master/linkedin.png?raw=true"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.instagram.com/nikhil.jnn/" target="_blank"><img height="30" src="https://image.flaticon.com/icons/svg/725/725278.svg"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
