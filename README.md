@@ -61,6 +61,5 @@ Here are some ideas to get you started:
 <a href="https://www.instagram.com/nikhil.jnn/" target="_blank"><img height="30" src="https://image.flaticon.com/icons/svg/725/725278.svg"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://twitter.com/nikhiljain148" target="_blank"><img height="30" src="https://raw.githubusercontent.com/AbhishekMaira10/AbhishekMaira10/master/Resources/png/twitter.png?raw=true"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
-<br>
 <p align="middle">
 <a = "">Reach me @ jainnikhil148@gmail.com </a> 
