@@ -11,8 +11,8 @@ Hi, I am **Nikhil Jain** from India. I’m currently pursuing my Masters from We
 **Languages and Tools:**
 <br>
 
-<code><img height="50" src="https://user-images.githubusercontent.com/83585688/130240840-75f15794-2d3e-40e4-984b-2b8b1624e3e4.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="50" src="https://user-images.githubusercontent.com/83585688/130241797-beb8d581-6f5b-4f5a-9835-4dfc2307fd40.png"></code>
+<code><img height="20" src="https://user-images.githubusercontent.com/83585688/130241847-a01e8635-9ed1-4a20-91c5-d9d097a81340.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 
 
