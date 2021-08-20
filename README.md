@@ -62,4 +62,4 @@ Here are some ideas to get you started:
 <a href="https://twitter.com/nikhiljain148" target="_blank"><img height="30" src="https://raw.githubusercontent.com/AbhishekMaira10/AbhishekMaira10/master/Resources/png/twitter.png?raw=true"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 <p align="middle">
-<a = "">**Reach me @ jainnikhil148@gmail.com** </a> 
+<a = "">**/Reach me @ jainnikhil148@gmail.com/** </a> 
