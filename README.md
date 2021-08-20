@@ -19,6 +19,9 @@
 - Looking to collaborate on Machine learning and Data Science projects. Always looking for challenging work opportunities ahead.
 - I try to go beyond and push the bounds.
 - Besides DA I play chess and Video Games.
+  
+<br>
+<br>
 
 ## 📝 Languages and Tools
 
@@ -35,6 +38,8 @@
 ![languages](https://img.shields.io/static/v1?label=&message=Matplotlib&color=000&style=plastic)
 ![languages](https://img.shields.io/static/v1?label=&message=MS%20Word&color=000&style=plastic)
 ![languages](https://img.shields.io/static/v1?label=&message=MS%20Power%20Point&color=000&style=plastic)
+<br>
+<br>
 
 ## 📈 Industry Knowledge
 
@@ -43,11 +48,16 @@
 ![languages](https://img.shields.io/static/v1?label=&message=Business%20Analytics&color=555&style=plastic)
 ![languages](https://img.shields.io/static/v1?label=&message=Data%20Visualization&color=555&style=plastic)
 ![languages](https://img.shields.io/static/v1?label=&message=Data%20Science&color=555&style=plastic)
+<br>
+<br>
 
 ## 📙 Languages
 
 ![languages](https://img.shields.io/static/v1?label=&message=English&color=555&style=plastic)
 ![languages](https://img.shields.io/static/v1?label=&message=Hindi&color=555&style=plastic)
+<br>
+<br>
+  
 
 ## ✔ Git Status
 
