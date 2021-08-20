@@ -49,9 +49,7 @@
 <br>
 
 
-
-## How about a quote before you go?
-<b> “Data will talk to you, if you’re willing to listen”
+# “Data will talk to you, if you’re willing to listen”
 
 
 <p align="middle">
