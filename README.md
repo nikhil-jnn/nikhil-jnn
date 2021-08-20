@@ -1,8 +1,9 @@
-<h1> Hey, nice to see you.</h1>
-
-![Neon Green and White Professional LinkedIn Banner](https://user-images.githubusercontent.com/83585688/130232490-f46445dc-e25c-4fe7-abe2-4b34f6e85f04.gif)
 
 
+
+
+
+                                                <h1> Hey, nice to see you.</h1>
 <p align="left">
 <a href="https://www.linkedin.com/in/nikhiljain148/" target="_blank"><img height="30" src="https://raw.githubusercontent.com/AbhishekMaira10/AbhishekMaira10/master/linkedin.png?raw=true"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.instagram.com/nikhil.jnn/" target="_blank"><img height="30" src="https://image.flaticon.com/icons/svg/725/725278.svg"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
