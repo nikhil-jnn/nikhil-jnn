@@ -12,7 +12,7 @@
 ## Languages and Tools:
 
 ### • PYTHON
-      - Matplotlib
+  ### - Matplotlib
 ### • SQL
 
 Here are some ideas to get you started:
