@@ -11,8 +11,9 @@
 
 ## Languages and Tools:
 
-### • PYTHON
-  ### - Matplotlib
+1. PYTHON
+   - Matplotlib
+   - Pandas
 ### • SQL
 
 Here are some ideas to get you started:
