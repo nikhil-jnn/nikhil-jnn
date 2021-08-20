@@ -27,6 +27,7 @@ Here are some ideas to get you started:
 <img src="https://komarev.com/ghpvc/?username=nikhil-jnn" alt="Visits"/>
  
  <p align="middle">
+ <a href="https://www.linkedin.com/in/nikhiljain148/" target="_blank">
  [abhishekmaira1999@gmail.com](mailto:abhishekmaira1999@gmail.com)
  
 <p align="middle">
