@@ -11,9 +11,13 @@
 
 ## Languages and Tools:
 
-1. PYTHON
+• PYTHON
    - Matplotlib
    - Pandas
+
+
+![](https://placehold.it/350x90/009955/fff?text=Python!)
+
 ### • SQL
 
 Here are some ideas to get you started:
