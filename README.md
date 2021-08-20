@@ -9,7 +9,7 @@ Hi, I am Nikhil Jain from India. I’m currently pursuing my Masters from Weling
 
 
  
-https://visitor-badge.glitch.me/badge?page_id=nikhil-jnn.visitor-badge
+![Profile Views](https://komarev.com/ghpvc/?username=nikhil-jnn)
 
 Here are some ideas to get you started:
 
