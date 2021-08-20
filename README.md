@@ -4,10 +4,10 @@
 <a href="https://www.linkedin.com/in/nikhiljain148/" target="_blank"><img height="30" src="https://raw.githubusercontent.com/AbhishekMaira10/AbhishekMaira10/master/linkedin.png?raw=true"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.instagram.com/nikhil.jnn/" target="_blank"><img height="30" src="https://image.flaticon.com/icons/svg/725/725278.svg"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://twitter.com/nikhiljain148" target="_blank"><img height="30" src="https://raw.githubusercontent.com/AbhishekMaira10/AbhishekMaira10/master/Resources/png/twitter.png?raw=true"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://twitter.com/nikhiljain148" target="_blank"><img height="30"
+<a href="(mailto:jainnikhil148@gmail.com)" target="_blank"><img height="30"
 src="https://user-images.githubusercontent.com/83585688/130227218-748e30fb-dcd9-49bd-8cf5-8346dfa676cb.jpg"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-[jainnikhil148@gmail.com](mailto:jainnikhil148@gmail.com)
+[jainnikhil148@gmail.com]
 </p>
 
 <br>
