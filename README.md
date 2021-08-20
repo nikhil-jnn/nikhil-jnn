@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 <img src="https://komarev.com/ghpvc/?username=nikhil-jnn" alt="Visits"/>
  
  <p align="middle">
- <a href = "mailto: jainnikhil148@gmail.com">Find me @ this email</a>
+ <a href = "mailto: jainnikhil148@gmail.com">Send Email</a> [abhishekmaira1999@gmail.com]
  
 <p align="middle">
 <a href="https://www.linkedin.com/in/nikhiljain148/" target="_blank"><img height="30" src="https://raw.githubusercontent.com/AbhishekMaira10/AbhishekMaira10/master/linkedin.png?raw=true"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
