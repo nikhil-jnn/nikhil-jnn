@@ -1,10 +1,11 @@
 ![Neon Green and White Professional LinkedIn Banner (2)](https://user-images.githubusercontent.com/83585688/130233313-fe187199-556d-437b-8450-5e282a0801b8.gif)
 
- 
-  
+<br>
+<br>
+<br>
+<br>
    
-   
-Hi, I am **Nikhil Jain** from India. I’m currently pursuing my Masters from Welingkar Institute of Management Bangalore with the specialization in Research and Business Analytics. Currently learning Machine Learning, Deep Learning, Data Science and Data Analysis technologies along with management skills. Looking to collaborate on Machine learning and Data Science projects. Always looking for challenging work opportunities ahead. I try to go beyond and push the bounds. Besides DA I play chess and Video Games.
+#### Hi, I am **Nikhil Jain** from India. I’m currently pursuing my Masters from Welingkar Institute of Management Bangalore with the specialization in Research and Business Analytics. Currently learning Machine Learning, Deep Learning, Data Science and Data Analysis technologies along with management skills. Looking to collaborate on Machine learning and Data Science projects. Always looking for challenging work opportunities ahead. I try to go beyond and push the bounds. Besides DA I play chess and Video Games.
 
 
 # Languages and Tools:
