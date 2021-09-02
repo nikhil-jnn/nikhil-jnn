@@ -1,7 +1,3 @@
-<p align="Center">
-<b>“Data will talk to you, if you’re willing to listen”
-</p>
-  
 <br>
 <br>
 
